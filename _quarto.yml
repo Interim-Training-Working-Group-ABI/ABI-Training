@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "MyProject"
+  description: "A lightweight, composable toolkit for modern applications."
+  favicon: ""
+  repo-url: https://github.com/your-username/your-repo
+  repo-actions: [edit, issue]
+
+  navbar:
+    logo: "✦"
+    title: "MyProject"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Docs"
+        href: docs/installation.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/your-username/your-repo
+      - icon: search
+        href: search.qmd
+
+  sidebar:
+    - title: "Documentation"
+      style: "docked"
+      search: true
+      collapse-level: 2
+      contents:
+        - section: "Getting Started"
+          contents:
+            - docs/installation.qmd
+            - docs/configuration.qmd
+        - section: "Guides"
+          contents:
+            - docs/usage.qmd
+            - docs/advanced.qmd
+            - docs/api.qmd
+        - section: "Help"
+          contents:
+            - docs/faq.qmd
+            - docs/contributing.qmd
+
+  page-footer:
+    left: "© 2025 MyProject. MIT License."
+    right:
+      - text: "GitHub"
+        href: https://github.com/your-username/your-repo
+
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
