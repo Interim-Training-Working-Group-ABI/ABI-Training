@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: site
+  output-dir: docs
 
 website:
   title: "MyProject"
@@ -16,7 +16,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Docs"
-        href: docs/installation.qmd
+        href: pages/installation.qmd
       - text: "Projects"
         href: projects.qmd
       - text: "About"
@@ -35,20 +35,20 @@ website:
       contents:
         - section: "Getting Started"
           contents:
-            - docs/installation.qmd
-            - docs/configuration.qmd
+            - pages/installation.qmd
+            - pages/configuration.qmd
         - section: "Guides"
           contents:
-            - docs/usage.qmd
-            - docs/advanced.qmd
-            - docs/api.qmd
+            - pages/usage.qmd
+            - pages/advanced.qmd
+            - pages/api.qmd
         - section: "Help"
           contents:
-            - docs/faq.qmd
-            - docs/contributing.qmd
+            - pages/faq.qmd
+            - pages/contributing.qmd
 
   page-footer:
-    left: "© 2025 MyProject. MIT License."
+    left: "© 2025 MyProject. CC BY License."
     right:
       - text: "GitHub"
         href: https://github.com/your-username/your-repo
