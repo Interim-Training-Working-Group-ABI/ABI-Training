@@ -325,23 +325,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Build things that actually last.",
+    "title": "Take part in training coordinated by the African Bioinformatics Insitute.",
     "section": "",
-    "text": "Open Source · v2.4.1\n\n\n\nA lightweight, composable toolkit for modern applications. Thoughtfully designed, meticulously documented, and built to grow with you.\n\nRead the Docs View on GitHub"
+    "text": "African Bioinformatics Institute Training\n\n\n\nThis site is hosted by the Interim ABI Training Working Group. Apply to upcoming training events and become part of the ABI community. \nAfrican Bioinformatics Institute Homepage About the ABI"
   },
   {
-    "objectID": "index.html#why-myproject",
-    "href": "index.html#why-myproject",
-    "title": "Build things that actually last.",
-    "section": "Why MyProject?",
-    "text": "Why MyProject?\nDesigned for clarity and longevity, MyProject gives your team a solid foundation without locking you into opinions you didn’t choose.\n\n\n::: {.feature-icon}⚡::: Fast by default\nZero-cost abstractions and tree-shaking keep bundles lean.\n\n\n::: {.feature-icon}🧩::: Composable\nMix and match modules. Use what you need, leave the rest.\n\n\n::: {.feature-icon}📖::: Well documented\nEvery API, pattern, and gotcha covered with real examples.\n\n\n::: {.feature-icon}🔒::: Type-safe\nFirst-class TypeScript support across the entire surface."
-  },
-  {
-    "objectID": "index.html#quick-start",
-    "href": "index.html#quick-start",
-    "title": "Build things that actually last.",
-    "section": "Quick Start",
-    "text": "Quick Start\nGet up and running in under two minutes:\n# Install via npm\nnpm install myproject\n\n# or yarn\nyarn add myproject\nimport { create } from 'myproject'\n\nconst app = create({ theme: 'warm' })\napp.run()\n\n\n\n\n\n\nTip\n\n\n\nFor a complete walkthrough, head to the Documentation section."
+    "objectID": "index.html#upcoming-training-events",
+    "href": "index.html#upcoming-training-events",
+    "title": "Take part in training coordinated by the African Bioinformatics Insitute.",
+    "section": "Upcoming Training Events:",
+    "text": "Upcoming Training Events:\nAfrican Bioinformatics Institute - Bioinformatics Summer School\nApply to the Bioinformatics Summer School\n\n\n\n\n\n\nTip\n\n\n\nPlease get your managers/supervisors approval ahead of applying to ABI events."
   },
   {
     "objectID": "about.html",
