@@ -20,11 +20,11 @@ This starts a local server at `http://localhost:4848` with live reload.
 quarto render
 ```
 
-Output goes to `_site/`.
+Output goes to `docs/`.
 
 ## Deploy to GitHub Pages
 
-1. In `_quarto.yml`, the `output-dir` is set to `_site`.
+1. In `_quarto.yml`, the `output-dir` is set to `docs`.
 2. Push your repo to GitHub.
 3. Go to **Settings → Pages** and set the source to **GitHub Actions**.
 4. Add this file as `.github/workflows/publish.yml`:
