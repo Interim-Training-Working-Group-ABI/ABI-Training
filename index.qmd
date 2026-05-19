@@ -6,12 +6,12 @@ toc: false
 
 ::: {.hero-banner}
 ::: {.hero-eyebrow}
-African Bioinformatics Institute Training
+African Bioinformatics Institute Interim Training Working Group
 :::
 
-# Take part in training coordinated by the *African Bioinformatics Insitute*.
+# Training coordinated by the *African Bioinformatics Insitute*.
 
-This site is hosted by the Interim ABI Training Working Group. Apply to upcoming training events and become part of the ABI community. 
+This site is hosted by the Interim ABI Training Working Group. It hosts course and training materials 
 <br>
 
 [African Bioinformatics Institute Homepage](https://www.bioinformaticsinstitute.africa){.btn .btn-primary .me-2}
@@ -23,7 +23,7 @@ This site is hosted by the Interim ABI Training Working Group. Apply to upcoming
 
 African Bioinformatics Institute - Bioinformatics Summer School
 
-[Apply to the Bioinformatics Summer School](linktbcapplication page)
+[Bioinformatics Summer School](linkplaceholder)
 
 ::: {.callout-tip}
 Please get your managers/supervisors approval ahead of applying to ABI events.
